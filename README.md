@@ -56,7 +56,7 @@ You can view or download my resume here:
 
 ## 📫 Connect With Me
 
-- 📧 Email: `mishrashubham8932@gmail.com` *(replace with your email)*
+- 📧 Email: `mishrashubham8932@gmail.com` 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/shubham-mishra-36b468326/) 
 - 🐙 GitHub: [@ShubhamMishra99](https://github.com/ShubhamMishra99)
 - 💬 Ask me about: `Frontend`, `Node.js`, `Component Design`, `GitHub Projects`
