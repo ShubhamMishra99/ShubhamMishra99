@@ -49,7 +49,7 @@ I'm always open to:
 ## 📄 Resume
 
 You can view or download my resume here:  
-📎 [Click to View Resume (PDF)](https://voluble-griffin-7d586b.netlify.app/)  
+📎 [Click to View Resume (PDF)](https://drive.google.com/file/d/1dIUTqDmY425Km8VKJGe7GSPZKdrqjR5t/view?usp=sharing)  
 *(Replace this link with your actual Google Drive, Dropbox, or hosted PDF link)*
 
 ---
