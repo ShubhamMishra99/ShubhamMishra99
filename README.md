@@ -14,50 +14,61 @@
 ## 💼 Tech Stack & Tools
 
 ### 🚀 Languages & Frameworks
-- JavaScript (ES6+), TypeScript
-- React.js, Node.js, Express.js
-- MongoDB, MySQL
-- HTML5, CSS3, Tailwind CSS
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40"/>
+</p>
 
 ### 🧰 Tools & Utilities
-- Git, GitHub, VS Code
-- Postman, Thunder Client
-- Storybook (for UI Component Libraries)
-- Chrome DevTools
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/storybookjs/storybook/next/code/media/storybook-icon.svg" width="40" height="40"/>
+</p>
 
 ---
 
 ## 🌱 Currently Learning
 
-- 🔁 **JWT Authentication & Secure REST APIs**
-- 📦 **Component libraries** with **Storybook + Angular/React**
-- 🌍 **Full-stack architecture & deployment**
-- 🐳 Basics of **Docker** and CI/CD
+- 🔐 **JWT Authentication & Secure REST APIs**
+- 📦 **Component Libraries** with **Storybook + Angular/React**
+- 🚀 **Full-stack Architecture & Deployment**
+- 🐳 **Docker Basics** and CI/CD Pipelines
 
 ---
 
 ## 🤝 Let's Collaborate!
 
 I'm always open to:
-- 🔧 Contributing to Open Source (especially frontend/backend projects)
+- 🔧 Open Source contributions (especially frontend/backend projects)
 - 🤝 Teaming up on MERN stack web apps
 - 🧩 UI/UX-focused design and development
-- 📖 Sharing knowledge and learning with other students
+- 📖 Knowledge sharing & peer learning
 
 ---
 
 ## 📄 Resume
 
-You can view or download my resume here:  
-📎 [Click to View Resume (PDF)](https://drive.google.com/file/d/1dIUTqDmY425Km8VKJGe7GSPZKdrqjR5t/view?usp=sharing)  
-*(Replace this link with your actual Google Drive, Dropbox, or hosted PDF link)*
+📎 [View My Resume (PDF)](https://drive.google.com/file/d/1dIUTqDmY425Km8VKJGe7GSPZKdrqjR5t/view?usp=sharing)  
+*Feel free to connect if you're hiring or collaborating!*
 
 ---
 
 ## 📫 Connect With Me
 
-- 📧 Email: `mishrashubham8932@gmail.com` 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/shubham-mishra-36b468326/) 
+- 📧 Email: `mishrashubham8932@gmail.com`
+- 🔗 [LinkedIn](https://www.linkedin.com/in/shubham-mishra-36b468326/)
 - 🐙 GitHub: [@ShubhamMishra99](https://github.com/ShubhamMishra99)
 - 💬 Ask me about: `Frontend`, `Node.js`, `Component Design`, `GitHub Projects`
 
@@ -70,14 +81,19 @@ When I’m not coding, I’m either sketching interfaces in my notebook or readi
 
 ---
 
-### 🖼 GitHub Stats
+## 📊 GitHub Stats & Contributions
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShubhamMishra99&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ShubhamMishra99&show_icons=true&theme=tokyonight&count_private=true" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShubhamMishra99&theme=tokyonight" width="48%" />
 </p>
-![Tests](https://img.shields.io/badge/tests-0%20passed-red)
-![Production Ready](https://img.shields.io/badge/status-YOLO-critical)
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=ShubhamMishra99&theme=tokyo-night&hide_border=true" />
+</p>
 
 ---
+
+### 🙌 Thank you for visiting my profile!
+
+
