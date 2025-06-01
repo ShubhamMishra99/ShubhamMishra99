@@ -76,5 +76,8 @@ When I’m not coding, I’m either sketching interfaces in my notebook or readi
   <img src="https://github-readme-stats.vercel.app/api?username=ShubhamMishra99&show_icons=true&theme=tokyonight" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShubhamMishra99&theme=tokyonight" width="48%" />
 </p>
+![Tests](https://img.shields.io/badge/tests-0%20passed-red)
+![Production Ready](https://img.shields.io/badge/status-YOLO-critical)
+
 
 ---
