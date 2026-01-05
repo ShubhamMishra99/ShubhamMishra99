@@ -60,7 +60,7 @@ I'm always open to:
 
 ## 📄 Resume
 
-📎 [Click Here to View My Resume (PDF)]([https://drive.google.com/file/d/1dIUTqDmY425Km8VKJGe7GSPZKdrqjR5t/view?usp=sharing](https://drive.google.com/file/d/155B1p7zpbIfqD0p4xbPncQxRVsr6jE-9/view?usp=sharing))  
+📎 [Click Here to View My Resume (PDF)](https://drive.google.com/file/d/155B1p7zpbIfqD0p4xbPncQxRVsr6jE-9/view?usp=sharing)  
 *Feel free to connect if you're hiring or collaborating!*  
 
 ---
