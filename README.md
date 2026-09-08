@@ -1,205 +1,111 @@
-<h1 align="center">Hey 👋, I'm Shubham Mishra</h1>
+<div align="center">
 
-<p align="center">
-  <b>Full-Stack Developer | MERN Stack | AI/ML Enthusiast</b>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=2F80ED&center=true&vCenter=true&width=560&lines=Shubham+Mishra;Full-Stack+Developer;AI+%2F+ML+Engineer+in+Progress" alt="Typing SVG" />
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/shubham-mishra-36b468326/">LinkedIn</a> •
-  <a href="https://github.com/ShubhamMishra99">GitHub</a> •
-  <a href="mailto:mishrashubham8932@gmail.com">Email</a> •
-  <a href="https://leetcode.com/u/Shubh0001/">LeetCode</a>
-</p>
+**I build practical, intelligent applications — not just tech-stack lists.**
 
----
+[![GitHub](https://img.shields.io/badge/GitHub-ShubhamMishra99-181717?style=flat-square&logo=github)](https://github.com/ShubhamMishra99)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shubham%20Mishra-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/shubham-mishra-36b468326/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Shubh0001-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/Shubh0001/)
+[![Resume](https://img.shields.io/badge/Resume-View-34A853?style=flat-square&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/155B1p7zpbIfqD0p4xbPncQxRVsr6jE-9/view?usp=sharing)
 
-## 👨‍💻 About Me
-
-🎓 Computer Science student passionate about building scalable web applications
-and intelligent software solutions.
-
-💻 Experienced with the **MERN stack**, REST APIs, databases, authentication,
-and modern frontend development.
-
-🤖 Exploring **Machine Learning, Generative AI, LLMs, RAG, embeddings,
-semantic search, and AI agents**.
-
-🚀 Interested in building products that combine strong engineering with
-practical AI capabilities.
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+## About
 
-### Languages
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="35"/>
-</p>
+```
+Full-Stack Development  →  AI / ML  →  Generative AI  →  Intelligent Applications
+```
 
-**JavaScript • TypeScript • Java • Python • SQL**
-
-### Full-Stack Development
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="35"/>
-</p>
-
-**React.js • Node.js • Express.js • MongoDB • MySQL • HTML5 • CSS3 • REST APIs**
-
-### AI / Machine Learning
-
-**Machine Learning • Deep Learning • Generative AI • LLMs • RAG • 
-Embeddings • Vector Databases • Semantic Search • NLP • AI Agents**
-
-**PyTorch • TensorFlow • Scikit-learn • Hugging Face • Sentence Transformers • NumPy • Pandas**
-
-### Tools
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="35"/>
-</p>
-
-**Git • GitHub • Docker • Postman • VS Code**
+I'm a Computer Science undergrad (B.Tech CSE, 2024–2028) working across the full stack, with a growing focus on applied AI/ML — recommendation systems, RAG pipelines, and agentic workflows. I've shipped production features as a full-stack intern at two startups and contributed 25+ PRs to open-source GovTech platforms. My projects lean toward systems that reason over data, not just CRUD apps.
 
 ---
 
-## 🚀 Featured Projects
+## Tech Stack
 
-### 🎬 CineMatch AI
-**Explainable Hybrid Movie Recommendation System**
+**Languages**
+`Java` `JavaScript` `TypeScript` `Python` `SQL`
 
-A personalized movie recommendation platform that combines multiple
-recommendation techniques to generate relevant and diverse movie suggestions.
+**Frontend**
+`React.js` `TypeScript` `HTML5` `CSS3` `Vite`
 
-**Tech:** Python • FastAPI • React • Machine Learning • NLP • Recommendation Systems
+**Backend**
+`Node.js` `Express.js` `FastAPI` `REST APIs`
 
-🔗 [GitHub](https://github.com/ShubhamMishra99/CineMatch)
+**Databases**
+`MongoDB` `MySQL` `Firebase`
 
----
+**AI / Machine Learning**
+`Machine Learning` `Deep Learning` `NLP` `Model Evaluation` `AI Automation`
 
-### ♻️ Eco-SAATHI
-**Waste Management Platform**
+**Generative AI**
+`LLMs` `Transformer Models` `RAG` `Embeddings` `Vector Databases` `Semantic Search` `Conversational AI` `AI Agents` `Agentic Workflows`
 
-Full-stack platform for waste pickup management, scheduling, tracking,
-authentication, and sustainability-focused user rewards.
+**ML Frameworks & Tools**
+`PyTorch` `TensorFlow` `Scikit-learn` `Hugging Face Transformers` `Sentence Transformers` `NumPy` `Pandas` `Matplotlib`
 
-**Tech:** React • Node.js • Express.js • MongoDB • Socket.IO
-
-🔗 [GitHub](https://github.com/ShubhamMishra99/Eco-Saathi)
-
----
-
-### 🍳 KitchOS
-**Restaurant Management Platform**
-
-Full-stack restaurant management system for handling inventory,
-menus, orders, POS operations, and role-based access.
-
-**Tech:** React • Node.js • Express.js • MongoDB
-
-🔗 [GitHub](https://github.com/ShubhamMishra99/Kitchos)
+**Dev Tools**
+`Git` `GitHub` `Docker` `Postman` `VS Code`
 
 ---
 
-### 📋 TaskBoard
-**Kanban Task Management Application**
+## Featured Projects
 
-A responsive Kanban-style task manager with draggable components
-and persistent local storage.
+### [CineMatch AI](https://github.com/ShubhamMishra99/CineMatch)
+→ Recommender systems are usually black boxes — users get suggestions with no idea why.
+→ Built an explainable hybrid movie recommendation engine combining collaborative filtering (custom Funk SVD / matrix factorization), content-based filtering, and semantic search.
+→ Sentence Transformers + TF-IDF fallback for semantic matching, MMR-based diversity-aware ranking, cold-start handling, and user-feedback loops — with human-readable explanations for every recommendation.
+→ **Stack:** Python, FastAPI · React, TypeScript, Vite · MovieLens + TMDB datasets
 
-**Tech:** React • JavaScript • HTML • CSS
+### [Eco-SAATHI](https://github.com/ShubhamMishra99/Eco-Saathi)
+→ Full-stack application focused on environmental/sustainability use cases.
+→ **Stack:** MERN
 
-🔗 [GitHub](https://github.com/ShubhamMishra99/TaskBoard)
+### [KitchOS](https://github.com/ShubhamMishra99/Kitchos)
+→ Full-stack application built to streamline kitchen/food-workflow management.
+→ **Stack:** MERN
 
----
-
-## 💼 Experience
-
-**Full Stack Engineer Intern — Swyftin**  
-`Jan 2026 – June 2026`
-
-- Developing backend features and automation workflows.
-- Building AI-powered chatbot solutions.
-- Integrating third-party APIs.
-- Working with product and design teams on production features.
-
-**Full Stack Engineer Intern — Clarity**  
-`Aug 2025 – Jan 2026`
-
-- Built full-stack features using the MERN stack.
-- Developed React components and REST APIs.
-- Worked with JWT authentication.
-- Improved application performance and reliability.
+### [TaskBoard](https://github.com/ShubhamMishra99/TaskBoard)
+→ Task and project management tool with real-time board-style tracking.
+→ **Stack:** MERN
 
 ---
 
-## 🌱 Currently Exploring
+## Experience
 
-- 🤖 Generative AI & LLM Applications
-- 🔎 Retrieval-Augmented Generation
-- 🧠 AI Agents & Agentic Workflows
-- ☁️ Cloud Deployment
-- 🐳 Docker & CI/CD
-- 🏗️ Scalable Full-Stack Architecture
+**Full Stack Engineer Intern — Swyftin**
+*Jan 2026 – Jun 2026*
+- Built backend automation workflows and AI-powered chatbot features using Python
+- Integrated third-party APIs into production systems
+- Collaborated directly with product and design teams in a production environment
 
----
-
-## 🏆 Achievements
-
-🥈 **Runner-up — Hackathon 2025**  
-Secured 2nd place for the *Nirbhaya* application.
-
-🌐 **LFX Mentorship**  
-Contributing to open-source projects through the Linux Foundation ecosystem.
-
-💻 **Code for GovTech (C4GT)**  
-Contributed to citizen-centric open-source projects with 25+ PRs.
+**Full Stack Engineer Intern — Clarity**
+*Aug 2025 – Jan 2026*
+- Built React components and REST APIs on the MERN stack
+- Implemented JWT-based authentication
+- Improved application performance and reliability
 
 ---
 
-## 📄 Resume
+## Open Source
 
-📎 [View My Resume](https://drive.google.com/file/d/155B1p7zpbIfqD0p4xbPncQxRVsr6jE-9/view?usp=sharing)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShubhamMishra99&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=ShubhamMishra99&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamMishra99&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
+- **C4GT (Code for GovTech)** — 25+ merged PRs across React + Firebase citizen-centric platforms, including UI bug fixes and feature work
+- **LFX Mentorship** — Selected mentee under the Linux Foundation ecosystem
 
 ---
 
-## 📫 Connect With Me
+## Achievements
 
-📧 **Email:** mishrashubham8932@gmail.com
-
-🔗 **LinkedIn:** [Shubham Mishra](https://www.linkedin.com/in/shubham-mishra-36b468326/)
-
-🐙 **GitHub:** [@ShubhamMishra99](https://github.com/ShubhamMishra99)
-
-💻 **LeetCode:** [@Shubh0001](https://leetcode.com/u/Shubh0001/)
+- 🏆 Runner-up, Hackathon 2025
+- 🥈 2nd Place — Nirbhaya application
 
 ---
 
-<p align="center">
-  <b>🚀 Always learning. Always building.</b>
-</p>
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShubhamMishra99&show_icons=true&theme=default&hide_border=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamMishra99&layout=compact&hide_border=true&langs_count=6)
+
+</div>
